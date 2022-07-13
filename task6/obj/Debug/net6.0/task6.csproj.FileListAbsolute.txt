@@ -1,0 +1,15 @@
+I:\Geekbrains\Homework1(13.07.22)\task6\bin\Debug\net6.0\task6.exe
+I:\Geekbrains\Homework1(13.07.22)\task6\bin\Debug\net6.0\task6.deps.json
+I:\Geekbrains\Homework1(13.07.22)\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+I:\Geekbrains\Homework1(13.07.22)\task6\bin\Debug\net6.0\task6.dll
+I:\Geekbrains\Homework1(13.07.22)\task6\bin\Debug\net6.0\task6.pdb
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.csproj.AssemblyReference.cache
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.dll
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\refint\task6.dll
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.pdb
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+I:\Geekbrains\Homework1(13.07.22)\task6\obj\Debug\net6.0\ref\task6.dll
